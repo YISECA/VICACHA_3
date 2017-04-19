@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata SENDERO HORIZONTES - LAS MOYAS 02 de ABRIL de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata SAN FRANCISCO O VICACHA 23 de ABRIL de 2017</div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/moyas.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/vica.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/moyas1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/vica1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/moyas3.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/vica2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
