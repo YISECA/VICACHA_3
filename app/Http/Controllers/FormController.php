@@ -325,7 +325,7 @@ class FormController extends BaseController
 
 
 
-       if($this->inscritos()<=50){
+       if($this->inscritos()<=40){
 
 
 

@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata SAN FRANCISCO O VICACHA 23 de ABRIL de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata RÍO SAN FRANCISCO O VICACHA 23 de ABRIL de 2017</div>
 
                     </div>
 <br>
@@ -76,18 +76,20 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero se encuentra ubicado en la localidad de Chapinero, entre la calle 76 con av. circunvalar, limita al norte con la localidad de Usaquén y al sur con la localidad de santa fe.</font></p>
+                        <p><font size="3">El sendero del río San Francisco o Vicachá está ubicado en la localidades de Candelaria y Santafé que marcaba el límite norte de Bogotá en sus primeros años de fundación. Nace en el páramo de Cruz Verde y baja por el canon entre los  cerros de Monserrate y Guadalupe. Al llegar a la ciudad en la Quinta de Bolívar es canalizado. En la actual avenida Jiménez con calle Sexta confluye por debajo de la tierra con el río San Agustín.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en la calle 76 con Av. Circunvalar CAI Rosales, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad. Desde allí se realiza el desplazamiento hacia el inicio del sendero Horizontes, se continua por el sendero hasta la parte alta llegando al páramo, allí se hace un receso y luego se inicia el retorno al cai de Rosales donde termina la actividad.</font></p>
+                        <p><font size="3">El recorrido da inicio en la Plazoleta del Rosario ubicada frente a la estación Museo del oro, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones, así como las prohibiciones y restricciones propias del recorrido y necesarias para su ejecución. Se dará inicio a la caminata desde la carrera 7ª con avenida Jiménez desplazándose hacia el oriente por el eje ambiental hasta llegar a la avenida circunvalar e ingresando a los predios del acueducto. En este sector se construyó un sendero por en bosque de niebla que conduce al mirador donde se puede apreciar el centro de la ciudad. El sendero en descenso nos lleva a la universidad distrital y de allí a la avenida Jiménez con carrera 3ª donde finaliza la caminata.</font></p>
 
                         <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Miradores</li>
-                            <li>Ecosistema de Sub-páramo</li>
-                            <li>Ecosistema de Páramo</li>
+                            <li>Históricos</li>
+                            <li>Culturales</li>
+                            <li>Arquitectónicos</li>
+                            <li>Hídricos</li>
+                            <li>Ecosistema de niebla y sub- páramo</li>
                             </font>
                         </ul>
                         <br>
@@ -108,7 +110,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>CAI Rosales Av. Circunvalar calle 76 </p>
+                                            <p>Plazoleta del Rosario, frente a la estación Museo del Oro. (Av. Jiménez carrera 6)</p>
 
                                         </td>
 
@@ -124,7 +126,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 02 de Abril de 2017</p>
+                                            <p>Domingo 23 de Abril 2017</p>
 
                                         </td>
 
@@ -140,7 +142,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>7:00 a.m</p>
+                                            <p>8:00 a.m</p>
 
                                         </td>
 
@@ -156,7 +158,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>50 Personsa</p>
+                                            <p>40 Personsa</p>
 
                                         </td>
 
@@ -190,7 +192,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3.200 m.s.n.m</td>
+                                            <p>2.800 m.s.n.m</td>
 
                                     </tr>
 
@@ -204,7 +206,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>12°</p>
+                                            <p>14°</p>
 
                                         </td>
 
@@ -219,11 +221,11 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>ALTO</p>
+                                            <p>Medio</p>
 
                                         </td>
 
-                                    </tr>
+                                    <!--</tr>
                                     <tr valign="top">
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
@@ -238,7 +240,7 @@
 
                                         </td>
 
-                                    </tr>
+                                    </tr>-->
                                      
 
                         </table></center></font>
